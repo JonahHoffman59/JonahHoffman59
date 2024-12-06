@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello, my name is Jonah Hoffman and I am an undergraduate student in my third year studying Computer Science with a concentration in Computer Engineering at Louisiana Tech University.
+
+Currently working on creating my first website from scratch, with the purpose of building a portfolio and getting my name out there.
+
+Contact: jonahhoffman122@gmail.com
+
 
 <!--
 **JonahHoffman59/JonahHoffman59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
