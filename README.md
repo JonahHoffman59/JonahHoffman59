@@ -1,6 +1,6 @@
 Hello, my name is Jonah Hoffman and I am an undergraduate student in my third year studying Computer Science with a concentration in Computer Engineering at Louisiana Tech University.
 
-Currently working on creating my first website from scratch, with the purpose of building a portfolio and getting my name out there.
+Currently working on creating my first website from scratch, with the purpose of building a portfolio.
 
 Contact: jonahhoffman122@gmail.com
 
