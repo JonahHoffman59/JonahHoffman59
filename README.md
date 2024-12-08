@@ -2,7 +2,6 @@ Hello, my name is Jonah Hoffman and I am an undergraduate student in my third ye
 
 Currently working on creating my first website from scratch, with the purpose of building a portfolio.
 
-Contact: jonahhoffman122@gmail.com
 
 
 <!--
